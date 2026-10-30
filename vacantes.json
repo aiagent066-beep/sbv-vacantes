@@ -1,7 +1,31 @@
 {
- "actualizado": "2026-10-29",
- "actualizado_en": "2026-10-29T20:15:16Z",
+ "actualizado": "2026-10-30",
+ "actualizado_en": "2026-10-30T18:36:45Z",
+ "ultima_busqueda": {
+  "origen": "manual",
+  "inicio": "2026-10-30T18:36:01Z",
+  "fin": "2026-10-30T18:36:45Z",
+  "nuevas": 1,
+  "setter": 1,
+  "closer": 0
+ },
  "vacantes": [
+  {
+   "id": "worklatam-setter-elevation-energy-solutions-energia-solar",
+   "tipo": "setter",
+   "titulo": "Cold caller outbound: califica propietarios y los transfiere en vivo a un closer (energía solar)",
+   "empresa": "Elevation Energy Solutions (energía solar y mejoras de eficiencia energética, EE.UU.)",
+   "ubicacion": "Remoto · México",
+   "pago": "$4,668.55 - $11,337.10 por semana (tal como aparece publicado)",
+   "horario": "Tiempo completo, lunes a sábado, horario del Pacífico de EE.UU. (PT); el turno se asigna al contratar",
+   "idioma": "Inglés B2+ (voz clara, acento neutro)",
+   "requisitos": "1+ año en llamadas en frío, telemarketing o live transfer; unas 250 marcaciones por turno desde una lista de leads. Debe contar con internet por cable de 20 Mbps+, headset y espacio tranquilo. Se aplica desde el botón Apply de la página de workLATAM.",
+   "alerta": "Rol de transferencia en vivo (no cierra la venta). Solo para residentes de México. Pago publicado poco creíble por semana: verifica el esquema real antes de aplicar. Incluye sábados.",
+   "publicada": "2026-10-29",
+   "link": "https://worklatam.com/jobs/785302983-transfer-agent",
+   "fuente": "workLATAM",
+   "agregada": "2026-10-30"
+  },
   {
    "id": "weremoto-setter-superside-enterprise-bdr",
    "tipo": "setter",
