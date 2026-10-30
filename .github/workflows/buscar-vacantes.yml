@@ -1,0 +1,43 @@
+name: Buscar vacantes
+
+on:
+  schedule:
+    - cron: "36 11 * * *"   # todos los días a las 6:36 a.m. hora de Bogotá
+  workflow_dispatch:         # botón "Buscar vacantes ahora" de la página de GHL
+
+permissions:
+  contents: write
+
+concurrency:
+  group: buscar-vacantes
+  cancel-in-progress: false
+
+jobs:
+  buscar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install "anthropic==2.3.0"
+
+      - name: Buscar vacantes nuevas
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SBV_MODEL: ${{ vars.SBV_MODEL }}
+          SBV_ORIGEN: ${{ github.event_name == 'workflow_dispatch' && 'manual' || 'programada' }}
+        run: python scripts/buscar_vacantes.py
+
+      - name: Publicar vacantes.json
+        run: |
+          git config user.name "SBV bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add vacantes.json
+          git commit -m "Vacantes $(TZ=America/Bogota date +'%Y-%m-%d %H:%M')" || exit 0
+          git pull --rebase origin main
+          git push origin HEAD:main
