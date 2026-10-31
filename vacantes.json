@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-10-30",
- "actualizado_en": "2026-10-30T18:36:45Z",
+ "actualizado": "2026-10-31",
+ "actualizado_en": "2026-10-31T16:17:56Z",
  "ultima_busqueda": {
-  "origen": "manual",
-  "inicio": "2026-10-30T18:36:01Z",
-  "fin": "2026-10-30T18:36:45Z",
-  "nuevas": 1,
-  "setter": 1,
+  "origen": "programada",
+  "inicio": "2026-10-31T16:17:12Z",
+  "fin": "2026-10-31T16:17:56Z",
+  "nuevas": 3,
+  "setter": 3,
   "closer": 0
  },
  "vacantes": [
@@ -41,6 +41,22 @@
    "link": "https://www.weremoto.com/job-posts/id-enterprise-business-development-representative-superside",
    "fuente": "WeRemoto",
    "agregada": "2026-10-29"
+  },
+  {
+   "id": "weremoto-setter-rules-cube-consultoria-tecnologica-ia-y",
+   "tipo": "setter",
+   "titulo": "SDR B2B: prospecta en frío, califica leads y los pasa a ventas (consultoría de IA)",
+   "empresa": "Rules Cube (consultoría tecnológica, IA y transformación digital)",
+   "ubicacion": "Remoto · 100% remoto (anuncio en bolsa LATAM)",
+   "pago": "No publicado",
+   "horario": "Tiempo completo; horario no especificado",
+   "idioma": "Español (anuncio); nivel de inglés no especificado",
+   "requisitos": "Contactas prospectos B2B por llamada en frío, email y redes, los calificas con técnica SPIN y los transfieres al equipo ejecutivo. Piden experiencia excluyente en ventas o generación de demanda en el sector financiero, más manejo de Apollo/Salesforce. Se aplica en el formulario de Rules Cube.",
+   "alerta": "Exige experiencia en el sector financiero. Pago, país y horario no publicados.",
+   "publicada": "2026-10-28",
+   "link": "https://www.weremoto.com/job-posts/id-business-development-generalist---b2b-sales-rules-cube",
+   "fuente": "WeRemoto",
+   "agregada": "2026-10-31"
   },
   {
    "id": "worklatam-closer-avanxa-cursos-online",
@@ -201,6 +217,38 @@
    "link": "https://worklatam.com/jobs/781480278-cold-caller-+-lead-manager-us-real-estate-remote-full-time",
    "fuente": "workLATAM",
    "agregada": "2026-10-28"
+  },
+  {
+   "id": "worklatam-setter-solar-connect-energia-solar-ee-uu",
+   "tipo": "setter",
+   "titulo": "Setter de citas solares con leads tibios (sin llamadas en frío)",
+   "empresa": "Solar Connect (energía solar, EE.UU.)",
+   "ubicacion": "Remoto · Mundial (LATAM incluido)",
+   "pago": "$5 USD/hora + comisión por desempeño",
+   "horario": "Tiempo completo, en horario laboral de EE.UU. (zona horaria no especificada)",
+   "idioma": "Inglés fluido (pronunciación clara)",
+   "requisitos": "Llamas a propietarios en EE.UU. que ya mostraron interés, los calificas y agendas consultas solares, y actualizas el CRM. Experiencia en call center o setting suma. Debes aplicar en el sitio de la empresa y subir una muestra de audio en inglés; si aplicas solo desde el portal, no te consideran.",
+   "alerta": "Pago base bajo ($5/h). Fecha aproximada (la página dice 'hace 1 semana'). La postulación es obligatoria en su sitio web con audio.",
+   "publicada": "2026-10-24",
+   "link": "https://worklatam.com/jobs/779440121-remote-solar-appointment-setter-warm-leads",
+   "fuente": "workLATAM",
+   "agregada": "2026-10-31"
+  },
+  {
+   "id": "worklatam-setter-joo-kwon-clinica-dental-ee-uu",
+   "tipo": "setter",
+   "titulo": "Setter de consultas gratis de implantes dentales (medio tiempo)",
+   "empresa": "Joo Kwon (clínica dental, EE.UU.)",
+   "ubicacion": "Remoto · publicado en workLATAM (país no especificado)",
+   "pago": "$8 - $12 / hora",
+   "horario": "Medio tiempo; horario no especificado",
+   "idioma": "Inglés casi nativo",
+   "requisitos": "Llamas a leads para agendar consultas gratuitas de implantes dentales y les das seguimiento antes y después de la cita. Se postula desde el botón Apply de workLATAM; la etiqueta del anuncio menciona CRM y GoHighLevel.",
+   "alerta": "Anuncio con muy poca información y título confuso ('president'): verifica la empresa antes de compartir datos. Fecha aproximada ('hace 1 semana').",
+   "publicada": "2026-10-24",
+   "link": "https://worklatam.com/jobs/779703028-president",
+   "fuente": "workLATAM",
+   "agregada": "2026-10-31"
   },
   {
    "id": "weremoto-setter-ignitvio-sdr",
