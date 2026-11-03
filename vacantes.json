@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-02",
- "actualizado_en": "2026-11-02T20:53:18Z",
+ "actualizado": "2026-11-03",
+ "actualizado_en": "2026-11-03T18:40:32Z",
  "ultima_busqueda": {
   "origen": "programada",
-  "inicio": "2026-11-02T20:52:33Z",
-  "fin": "2026-11-02T20:53:18Z",
-  "nuevas": 0,
+  "inicio": "2026-11-03T18:38:58Z",
+  "fin": "2026-11-03T18:40:32Z",
+  "nuevas": 2,
   "setter": 0,
-  "closer": 0
+  "closer": 2
  },
  "vacantes": [
   {
@@ -41,6 +41,22 @@
    "link": "https://www.weremoto.com/job-posts/id-enterprise-business-development-representative-superside",
    "fuente": "WeRemoto",
    "agregada": "2026-10-29"
+  },
+  {
+   "id": "upwork-closer-empresa-de-coaching-con-ia-de-voz-public",
+   "tipo": "closer",
+   "titulo": "Closer high ticket de programa de coaching (llamadas de cierre con leads ya agendados)",
+   "empresa": "Empresa de coaching con IA de voz (publicada en Upwork, nombre no visible)",
+   "ubicacion": "Remoto · LATAM (zona horaria Colombia UTC-5)",
+   "pago": "100% comisión: 10% base por venta, hasta 13% con aceleradores, sobre un ticket de USD 1.350 por 6 meses",
+   "horario": "Horario Colombia (UTC-5); días y horas exactas no especificadas",
+   "idioma": "Español nativo; inglés conversacional",
+   "requisitos": "Mínimo 2 años cerrando high ticket por llamada (tickets desde USD 1.000) y debes demostrarlo con capturas del CRM, dashboards o referencias. Se aplica desde la publicación en Upwork; manejo real de CRM (HubSpot suma) e internet estable.",
+   "alerta": "Solo comisión, sin sueldo base. Perfil con experiencia comprobable. Fecha tomada de 'hace 6 días' en la página; no pude abrirla con web_fetch (límite de la herramienta)",
+   "publicada": "2026-10-28",
+   "link": "https://www.upwork.com/freelance-jobs/apply/Closer-High-Ticket-Remoto-LATAM-100-comisi_~022097423889081213005/",
+   "fuente": "Upwork",
+   "agregada": "2026-11-03"
   },
   {
    "id": "weremoto-setter-rules-cube-consultoria-tecnologica-ia-y",
@@ -137,6 +153,22 @@
    "link": "https://worklatam.com/jobs/785138334-outbound-calling-representative-u-s-healthcare-campaign-remote",
    "fuente": "workLATAM",
    "agregada": "2026-10-29"
+  },
+  {
+   "id": "remotive-closer-terraboost-media-publicidad-en-pantallas",
+   "tipo": "closer",
+   "titulo": "Closer B2B high ticket: vende espacios publicitarios en pantallas de bienestar de grandes retailers a dueños de negocios",
+   "empresa": "Terraboost Media (publicidad en pantallas dentro de cadenas de farmacias y supermercados de EE.UU.)",
+   "ubicacion": "Remoto · Worldwide (contratista independiente)",
+   "pago": "Hasta $1,500 por venta; contratistas top $20,000+ al mes (solo comisión)",
+   "horario": "Horario libre, lo defines tú",
+   "idioma": "Inglés (anuncio en inglés; hablas con dueños de negocios en EE.UU.)",
+   "requisitos": "Experiencia en ventas a comisión (solar, techos, control de plagas, HVAC, mejoras del hogar u otras) y comodidad hablando con dueños de negocios. Aplicas desde el botón de la página en Remotive (formulario ClearCompany); te capacitan en su proceso de venta y te apoyan en las reuniones.",
+   "alerta": "Solo comisión, sin sueldo base ni territorio. Pago por venta, sin ingreso garantizado; confirma por escrito que contratan desde tu país. Fecha aproximada: la página dice 'hace 1 semana'",
+   "publicada": "2026-10-27",
+   "link": "https://remotive.com/remote/jobs/sales/high-ticket-b2b-sales-contractor-6368998",
+   "fuente": "Remotive",
+   "agregada": "2026-11-03"
   },
   {
    "id": "weremoto-setter-abogado-lesiones-hank",
