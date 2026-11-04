@@ -1,15 +1,31 @@
 {
- "actualizado": "2026-11-03",
- "actualizado_en": "2026-11-03T18:40:32Z",
+ "actualizado": "2026-11-04",
+ "actualizado_en": "2026-11-04T18:51:16Z",
  "ultima_busqueda": {
   "origen": "programada",
-  "inicio": "2026-11-03T18:38:58Z",
-  "fin": "2026-11-03T18:40:32Z",
+  "inicio": "2026-11-04T18:50:07Z",
+  "fin": "2026-11-04T18:51:16Z",
   "nuevas": 2,
-  "setter": 0,
-  "closer": 2
+  "setter": 2,
+  "closer": 0
  },
  "vacantes": [
+  {
+   "id": "weremoto-setter-editopia-the-rose-holding-marketing-y-ca",
+   "tipo": "setter",
+   "titulo": "Setter de admisiones: califica leads entrantes y agenda citas con despachos de abogados",
+   "empresa": "Editopia / The Rose Holding (marketing y captación para despachos de abogados)",
+   "ubicacion": "Remoto · LATAM (preferencia Colombia, Venezuela, Perú)",
+   "pago": "400 USD al mes (fijo)",
+   "horario": "Jornada completa, horario flexible; guardia de seguimiento de 4 horas los domingos",
+   "idioma": "Español nativo (dicción y ortografía impecables); inglés no mencionado",
+   "requisitos": "1–2 años como appointment setter, SDR, atención al cliente de alto nivel o telemarketing, con CRM (ideal GoHighLevel). Trabaja leads que ya llegan por campañas: llama para calificarlos y agenda la reunión con el abogado. Se aplica enviando el CV en PDF desde la página.",
+   "alerta": "Pago fijo bajo (400 USD/mes) y sin comisión; hay que trabajar algunos domingos. Es una empresa con base en España, no de EE.UU.",
+   "publicada": "2026-11-04",
+   "link": "https://www.weremoto.com/job-posts/id-asesor-de-admisiones-y-cualificacion-de-leads-remoto---latam-editopia",
+   "fuente": "WeRemoto",
+   "agregada": "2026-11-04"
+  },
   {
    "id": "worklatam-setter-elevation-energy-solutions-energia-solar",
    "tipo": "setter",
@@ -345,6 +361,22 @@
    "link": "https://remotive.com/remote/jobs/sales/high-ticket-sales-closer-6324263",
    "fuente": "Remotive",
    "agregada": "2026-10-28"
+  },
+  {
+   "id": "jooble-setter-last-stop-moving-mudanzas-y-almacenamien",
+   "tipo": "setter",
+   "titulo": "Appointment Setter / BDR: llama a leads de mudanzas y agenda cotizaciones con ventas",
+   "empresa": "Last Stop Moving (mudanzas y almacenamiento, Edmonton, Canadá)",
+   "ubicacion": "Remoto · Colombia, Argentina, Perú, Bolivia, Chile, Ecuador o Uruguay",
+   "pago": "CA$1,400 al mes base (≈US$1,000) + CA$20 por cada mudanza reservada desde una cita agendada, sin tope",
+   "horario": "40 h/semana en turno fijo entre 8:00 y 21:00 hora de la montaña (Canadá), incluye algunos sábados",
+   "idioma": "Inglés hablado claro y seguro (CV y formulario en inglés)",
+   "requisitos": "1+ año en llamadas salientes, appointment setting o inside sales para clientes de Norteamérica. Contacta cada lead nuevo en minutos, toma el inventario por teléfono y agenda la cotización con ventas; en temporada baja hace prospección saliente. Se postula con CV en inglés y luego llena un formulario con video; hay 3 meses de prueba.",
+   "alerta": "Empresa canadiense, no de EE.UU.; contrato de contratista pagado en dólares canadienses. Publicada hace unos 14 días según Jooble, en el límite de la ventana: verifica que siga abierta.",
+   "publicada": "2026-10-21",
+   "link": "https://co.jooble.org/jdp/-242073006672970003",
+   "fuente": "Jooble",
+   "agregada": "2026-11-04"
   },
   {
    "id": "weremoto-setter-stillpoint-land",
