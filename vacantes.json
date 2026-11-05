@@ -1,15 +1,47 @@
 {
- "actualizado": "2026-11-04",
- "actualizado_en": "2026-11-04T18:51:16Z",
+ "actualizado": "2026-11-05",
+ "actualizado_en": "2026-11-05T18:57:21Z",
  "ultima_busqueda": {
   "origen": "programada",
-  "inicio": "2026-11-04T18:50:07Z",
-  "fin": "2026-11-04T18:51:16Z",
+  "inicio": "2026-11-05T18:56:40Z",
+  "fin": "2026-11-05T18:57:21Z",
   "nuevas": 2,
-  "setter": 2,
-  "closer": 0
+  "setter": 1,
+  "closer": 1
  },
  "vacantes": [
+  {
+   "id": "weremoto-setter-v-outsourcing-business-group-outsourcing",
+   "tipo": "setter",
+   "titulo": "Appointment Setter / Especialista de ventas (medio tiempo)",
+   "empresa": "V-Outsourcing Business Group (outsourcing de negocios)",
+   "ubicacion": "Remoto · LATAM",
+   "pago": "No publicado",
+   "horario": "Medio tiempo, inicio inmediato; días y horas no especificados",
+   "idioma": "Inglés B2 o superior (hablado fluido)",
+   "requisitos": "Contactar prospectos por teléfono y mensajes escritos, dar seguimiento y agendar reuniones para el equipo de ventas. Se suma experiencia en ventas, prospección o servicio al cliente. Se aplica por correo a talent@v-outsourcing.com con CV en inglés, disponibilidad y una nota breve en inglés; el primer filtro es en inglés.",
+   "alerta": "Pago no publicado y postulación por correo: confirma la empresa antes de compartir datos personales",
+   "publicada": "2026-11-04",
+   "link": "https://www.weremoto.com/job-posts/id-appointment-setter-sales-specialist-english-required-v-outsourcing",
+   "fuente": "WeRemoto",
+   "agregada": "2026-11-05"
+  },
+  {
+   "id": "weremoto-closer-pavago-cliente-agencia-de-reclutamiento",
+   "tipo": "closer",
+   "titulo": "SDR outbound que también negocia y cierra acuerdos (staffing para salud)",
+   "empresa": "Pavago (cliente: agencia de reclutamiento para clínicas médicas y dentales de EE.UU.)",
+   "ubicacion": "Remoto · Costa Rica, Brasil, Colombia, Argentina, Nicaragua y Jamaica",
+   "pago": "No publicado",
+   "horario": "Tiempo completo, horario laboral de EE.UU. (zona horaria no especificada)",
+   "idioma": "Inglés y español fluidos (nivel profesional)",
+   "requisitos": "Llamadas en frío de alto volumen a clínicas, presentar el servicio de contratación, manejar objeciones y negociar tarifas y acuerdos con los dueños. Piden experiencia en ventas outbound o B2B (de preferencia staffing o salud) y manejo de CRM. Se aplica por Workable (proceso con evaluación de IA, reclutador y entrevista con el cliente).",
+   "alerta": "Rol híbrido: el título dice SDR pero también cierra acuerdos; no se menciona explícitamente agendar citas",
+   "publicada": "2026-11-04",
+   "link": "https://www.weremoto.com/job-posts/id-sales-development-representative-sdr---healthcare-staffing-pavago",
+   "fuente": "WeRemoto",
+   "agregada": "2026-11-05"
+  },
   {
    "id": "weremoto-setter-editopia-the-rose-holding-marketing-y-ca",
    "tipo": "setter",
