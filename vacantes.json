@@ -1,15 +1,47 @@
 {
- "actualizado": "2026-11-05",
- "actualizado_en": "2026-11-05T18:57:21Z",
+ "actualizado": "2026-11-06",
+ "actualizado_en": "2026-11-06T18:22:29Z",
  "ultima_busqueda": {
   "origen": "programada",
-  "inicio": "2026-11-05T18:56:40Z",
-  "fin": "2026-11-05T18:57:21Z",
+  "inicio": "2026-11-06T18:21:48Z",
+  "fin": "2026-11-06T18:22:29Z",
   "nuevas": 2,
-  "setter": 1,
-  "closer": 1
+  "setter": 2,
+  "closer": 0
  },
  "vacantes": [
+  {
+   "id": "remotive-setter-pavago-cliente-empresa-de-servicios-para",
+   "tipo": "setter",
+   "titulo": "Setter de llamadas y mensajes en frío: agenda reuniones de ventas con abogados y otros profesionales en EE.UU.",
+   "empresa": "Pavago (cliente: empresa de servicios para abogados y profesionales en EE.UU.)",
+   "ubicacion": "Remoto · Argentina (solo residentes en Argentina)",
+   "pago": "No publicado",
+   "horario": "No especificado (tiempo completo)",
+   "idioma": "Inglés avanzado (comunicación oral y escrita fuerte)",
+   "requisitos": "2+ años agendando citas o en ventas outbound, con experiencia en campañas de llamadas a EE.UU. y manejo de CRM. Se aplica desde el enlace de Workable; el proceso es filtro con IA, entrevista con el cliente y oferta.",
+   "alerta": "Solo para residentes en Argentina; el sueldo no está publicado",
+   "publicada": "2026-11-05",
+   "link": "https://remotive.com/remote/jobs/sales/appointment-setter-6506387",
+   "fuente": "Remotive",
+   "agregada": "2026-11-06"
+  },
+  {
+   "id": "remotive-setter-llama-leads-agencia-de-generacion-de-cli",
+   "tipo": "setter",
+   "titulo": "Appointment Setter por chat (WhatsApp/Instagram) y teléfono: califica interesados y agenda citas o reservas",
+   "empresa": "Llama Leads (agencia de generación de clientes con anuncios y CRM)",
+   "ubicacion": "Remoto · Perú (solo residentes en Perú)",
+   "pago": "Sueldo base S/1,500 a S/1,800 mensuales + variable por resultados",
+   "horario": "Tiempo completo con horario base definido; turnos extra voluntarios y pagados (noches o fines de semana). Zona horaria no especificada",
+   "idioma": "Español (inglés avanzado deseable, no obligatorio)",
+   "requisitos": "Buena redacción y ortografía, facilidad para conversar y hacer preguntas, y seguridad para llamar. La experiencia en ventas, WhatsApp comercial o atención al cliente es deseable, no obligatoria. Se aplica desde el botón de la ficha en Remotive.",
+   "alerta": "Solo para Perú; el pago está en soles y el listado de Remotive lo muestra como '1500 per month'",
+   "publicada": "2026-11-05",
+   "link": "https://remotive.com/remote/jobs/sales/appointment-setter-6509628",
+   "fuente": "Remotive",
+   "agregada": "2026-11-06"
+  },
   {
    "id": "weremoto-setter-v-outsourcing-business-group-outsourcing",
    "tipo": "setter",
