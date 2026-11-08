@@ -1,15 +1,47 @@
 {
- "actualizado": "2026-11-07",
- "actualizado_en": "2026-11-07T16:59:59Z",
+ "actualizado": "2026-11-08",
+ "actualizado_en": "2026-11-08T17:13:59Z",
  "ultima_busqueda": {
   "origen": "programada",
-  "inicio": "2026-11-07T16:59:20Z",
-  "fin": "2026-11-07T16:59:59Z",
-  "nuevas": 0,
-  "setter": 0,
-  "closer": 0
+  "inicio": "2026-11-08T17:13:22Z",
+  "fin": "2026-11-08T17:13:59Z",
+  "nuevas": 4,
+  "setter": 3,
+  "closer": 1
  },
  "vacantes": [
+  {
+   "id": "weremoto-closer-south-cliente-empresa-de-ee-uu-de-inteli",
+   "tipo": "closer",
+   "titulo": "Representante de ventas B2B outbound: prospecta en frío y cierra suscripciones",
+   "empresa": "South (cliente: empresa de EE.UU. de inteligencia de mercado industrial)",
+   "ubicacion": "Remoto · LATAM",
+   "pago": "Pago mensual competitivo + incentivos por rendimiento sin límite de comisiones (monto no publicado)",
+   "horario": "Lunes a viernes, horario comercial EST",
+   "idioma": "Inglés fluido (oral y escrito); CV obligatorio en inglés",
+   "requisitos": "Más de 2 años en ventas B2B outbound con experiencia cerrando suscripciones o servicios y manejo de CRM (Pipedrive, HubSpot o Salesforce). Se aplica desde el botón de la vacante (Recruiterflow); se recomienda video en Loom.",
+   "alerta": "Rol de ciclo completo (prospecta y cierra); monto del pago no publicado; contrato como contratista independiente",
+   "publicada": "2026-11-06",
+   "link": "https://www.weremoto.com/job-posts/id-outbound-sales-representative-b2b---industrial-market-intelligence-south",
+   "fuente": "WeRemoto",
+   "agregada": "2026-11-08"
+  },
+  {
+   "id": "remotive-setter-virtuestaff-cliente-proveedor-de-energia",
+   "tipo": "setter",
+   "titulo": "Setter de citas para empresa de energía solar residencial (llamadas, SMS y correo)",
+   "empresa": "VirtueStaff (cliente: proveedor de energía solar residencial en EE.UU.)",
+   "ubicacion": "Remoto · solo Ecuador",
+   "pago": "USD 12,000 - 18,000 por año",
+   "horario": "No especificado",
+   "idioma": "Inglés (comunicación verbal excelente)",
+   "requisitos": "Experiencia comprobada en llamadas salientes o agendamiento telefónico; se prefiere experiencia en solar o servicios para el hogar. Agenda presentaciones para consultores de ventas, confirma citas y reagenda las canceladas. Se aplica desde Workable.",
+   "alerta": "Solo para candidatos residentes en Ecuador; contrato por servicios (contractor)",
+   "publicada": "2026-11-05",
+   "link": "https://remotive.com/remote/jobs/sales/appointment-setter-6485828",
+   "fuente": "Remotive",
+   "agregada": "2026-11-08"
+  },
   {
    "id": "remotive-setter-pavago-cliente-empresa-de-servicios-para",
    "tipo": "setter",
@@ -89,6 +121,38 @@
    "link": "https://www.weremoto.com/job-posts/id-asesor-de-admisiones-y-cualificacion-de-leads-remoto---latam-editopia",
    "fuente": "WeRemoto",
    "agregada": "2026-11-04"
+  },
+  {
+   "id": "remotive-setter-huzzle-cliente-en-el-mercado-b2b-nombre",
+   "tipo": "setter",
+   "titulo": "Setter B2B: cold calling, email y LinkedIn para agendar reuniones con decisores",
+   "empresa": "Huzzle (cliente en el mercado B2B, nombre no publicado)",
+   "ubicacion": "Remoto · solo Guatemala",
+   "pago": "No publicado",
+   "horario": "No especificado",
+   "idioma": "Inglés fuerte (oral y escrito)",
+   "requisitos": "Se prefiere experiencia en appointment setting, telemarketing o desarrollo de ventas B2B, con CRM como HubSpot, Salesforce o Pipedrive. Agenda demos y llamadas de descubrimiento para Account Executives y trabaja con metas diarias y mensuales. Se aplica desde Workable.",
+   "alerta": "Solo candidatos en Guatemala; pago no publicado",
+   "publicada": "2026-11-03",
+   "link": "https://remotive.com/remote/jobs/sales/b2b-appointment-setter-6469449",
+   "fuente": "Remotive",
+   "agregada": "2026-11-08"
+  },
+  {
+   "id": "remotive-setter-crewbloom-cliente-robbins-instruments-in",
+   "tipo": "setter",
+   "titulo": "Setter bilingüe (español/inglés): llamadas salientes para agendar reuniones con ventas de instrumental médico",
+   "empresa": "CrewBloom (cliente: Robbins Instruments, instrumental quirúrgico y médico-estético)",
+   "ubicacion": "Remoto · solo Brasil",
+   "pago": "No publicado",
+   "horario": "No especificado",
+   "idioma": "Inglés avanzado + español",
+   "requisitos": "3 a 5 años o más en appointment setting, inside sales o telemarketing, con meta de unas 100 llamadas al día. Califica leads y agenda reuniones virtuales o presenciales para representantes de ventas externos; se valora experiencia en salud o dispositivos médicos. Se aplica desde Workable.",
+   "alerta": "Solo candidatos en Brasil; perfil con experiencia alta (3-5+ años); pago no publicado",
+   "publicada": "2026-11-02",
+   "link": "https://remotive.com/remote/jobs/sales/spanish-bilingual-appointment-setter-6459007",
+   "fuente": "Remotive",
+   "agregada": "2026-11-08"
   },
   {
    "id": "worklatam-setter-elevation-energy-solutions-energia-solar",
