@@ -1,15 +1,31 @@
 {
- "actualizado": "2026-11-08",
- "actualizado_en": "2026-11-08T17:13:59Z",
+ "actualizado": "2026-11-09",
+ "actualizado_en": "2026-11-09T21:37:58Z",
  "ultima_busqueda": {
   "origen": "programada",
-  "inicio": "2026-11-08T17:13:22Z",
-  "fin": "2026-11-08T17:13:59Z",
-  "nuevas": 4,
-  "setter": 3,
+  "inicio": "2026-11-09T21:37:26Z",
+  "fin": "2026-11-09T21:37:58Z",
+  "nuevas": 1,
+  "setter": 0,
   "closer": 1
  },
  "vacantes": [
+  {
+   "id": "weremoto-closer-pavago-cliente-en-norteamerica-prioriza",
+   "tipo": "closer",
+   "titulo": "Ejecutivo de ventas de ciclo completo: prospecta, hace reuniones de descubrimiento y cierra (servicios para el hogar/techos, Norteamérica)",
+   "empresa": "Pavago (cliente en Norteamérica, prioriza servicios para el hogar, construcción y techado)",
+   "ubicacion": "Remoto · México, Honduras, Panamá, El Salvador, Costa Rica y Jamaica",
+   "pago": "No publicado",
+   "horario": "Tiempo completo, horario comercial estándar de Norteamérica (zona horaria no especificada)",
+   "idioma": "Inglés sólido (oral y escrito)",
+   "requisitos": "Experiencia comprobada cerrando ventas con metas cumplidas, manejo de CRM y capacidad de llevar todo el ciclo, desde la llamada en frío hasta la firma. Se postula por Workable de Pavago; el proceso es filtro con IA, entrevista con el cliente y oferta.",
+   "alerta": "Solo aceptan los países listados y piden residir en Norteamérica/Centroamérica; no incluye Colombia, Argentina ni Perú. Sueldo no publicado",
+   "publicada": "2026-11-09",
+   "link": "https://www.weremoto.com/job-posts/id-sales-executive-pavago",
+   "fuente": "WeRemoto",
+   "agregada": "2026-11-09"
+  },
   {
    "id": "weremoto-closer-south-cliente-empresa-de-ee-uu-de-inteli",
    "tipo": "closer",
