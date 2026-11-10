@@ -1,15 +1,31 @@
 {
- "actualizado": "2026-11-09",
- "actualizado_en": "2026-11-09T21:37:58Z",
+ "actualizado": "2026-11-10",
+ "actualizado_en": "2026-11-10T18:48:34Z",
  "ultima_busqueda": {
   "origen": "programada",
-  "inicio": "2026-11-09T21:37:26Z",
-  "fin": "2026-11-09T21:37:58Z",
-  "nuevas": 1,
-  "setter": 0,
-  "closer": 1
+  "inicio": "2026-11-10T18:47:45Z",
+  "fin": "2026-11-10T18:48:34Z",
+  "nuevas": 3,
+  "setter": 1,
+  "closer": 2
  },
  "vacantes": [
+  {
+   "id": "worklatam-com-closer-elevated-investment-group-inversion-inmo",
+   "tipo": "closer",
+   "titulo": "Representante de adquisiciones: llama a herederos y dueños de propiedades y los guía hasta firmar la oferta",
+   "empresa": "Elevated Investment Group (inversión inmobiliaria en Carolina del Norte y del Sur, EE.UU.)",
+   "ubicacion": "Remoto · LATAM",
+   "pago": "$200 - $5k / week",
+   "horario": "No especificado",
+   "idioma": "Inglés fluido y natural",
+   "requisitos": "Llamas y escribes por SMS a propietarios y herederos de casas heredadas o en problemas, con leads ya investigados por el equipo interno, y llevas la conversación hasta el acuerdo firmado, con seguimiento en GoHighLevel. Se aplica desde el botón Easy Apply de workLATAM.",
+   "alerta": "Rango de pago muy amplio (probablemente comisión): confirma la estructura de pago antes de aceptar",
+   "publicada": "2026-11-09",
+   "link": "https://worklatam.com/jobs/801270862-remote-acquisition-representative",
+   "fuente": "worklatam.com",
+   "agregada": "2026-11-10"
+  },
   {
    "id": "weremoto-closer-pavago-cliente-en-norteamerica-prioriza",
    "tipo": "closer",
@@ -25,6 +41,38 @@
    "link": "https://www.weremoto.com/job-posts/id-sales-executive-pavago",
    "fuente": "WeRemoto",
    "agregada": "2026-11-09"
+  },
+  {
+   "id": "weremoto-com-setter-canonical-software-de-codigo-abierto-ubu",
+   "tipo": "setter",
+   "titulo": "SDR de Canonical: gestiona consultas inbound y outbound, genera oportunidades y agenda reuniones con clientes",
+   "empresa": "Canonical (software de código abierto, Ubuntu)",
+   "ubicacion": "Remoto · Américas (Home based - Americas)",
+   "pago": "No publicado",
+   "horario": "No especificado",
+   "idioma": "Inglés (el proceso y la comunicación son en inglés; nivel no especificado)",
+   "requisitos": "Respondes consultas por correo, teléfono y chat, haces campañas outbound, investigas prospectos y coordinas reuniones con clientes para alimentar el pipeline. Se aplica en Greenhouse con un formulario largo de preguntas académicas y de liderazgo.",
+   "alerta": "Perfil exigente: piden notas académicas, hay que responder con palabras propias (sin IA) y se debe viajar a encuentros presenciales 4-6 veces al año",
+   "publicada": "2026-11-06",
+   "link": "https://www.weremoto.com/job-posts/id-sales-development-representative-canonical",
+   "fuente": "weremoto.com",
+   "agregada": "2026-11-10"
+  },
+  {
+   "id": "weremoto-com-closer-south-cliente-intermediario-de-transport",
+   "tipo": "closer",
+   "titulo": "Especialista de ventas y operaciones de carga: prospección en frío, cotizaciones y cierre de nuevos clientes",
+   "empresa": "South (cliente: intermediario de transporte de carga en EE.UU. con camiones Box Truck)",
+   "ubicacion": "Remoto · LATAM",
+   "pago": "No publicado (salario mensual competitivo)",
+   "horario": "Lunes a viernes, 8:00 AM a 5:00 PM EST",
+   "idioma": "Inglés avanzado (CV obligatorio en inglés)",
+   "requisitos": "Más de 2 años en freight brokerage o 3PL en EE.UU. y experiencia en cold calling y outbound. Haces llamadas en frío, abres rutas nuevas, preparas cotizaciones y coordinas envíos; se recomienda un video en Loom al postular.",
+   "alerta": "Rol mixto: 75% ventas y 25% operaciones de transporte; exige experiencia previa en logística",
+   "publicada": "2026-11-06",
+   "link": "https://www.weremoto.com/job-posts/id-freight-operations-sales-specialist-south",
+   "fuente": "weremoto.com",
+   "agregada": "2026-11-10"
   },
   {
    "id": "weremoto-closer-south-cliente-empresa-de-ee-uu-de-inteli",
