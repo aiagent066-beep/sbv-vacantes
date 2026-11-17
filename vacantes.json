@@ -1,15 +1,31 @@
 {
- "actualizado": "2026-11-16",
- "actualizado_en": "2026-11-16T21:13:15Z",
+ "actualizado": "2026-11-17",
+ "actualizado_en": "2026-11-17T20:01:01Z",
  "ultima_busqueda": {
   "origen": "programada",
-  "inicio": "2026-11-16T21:12:29Z",
-  "fin": "2026-11-16T21:13:15Z",
-  "nuevas": 3,
-  "setter": 0,
-  "closer": 3
+  "inicio": "2026-11-17T20:00:04Z",
+  "fin": "2026-11-17T20:01:01Z",
+  "nuevas": 2,
+  "setter": 2,
+  "closer": 0
  },
  "vacantes": [
+  {
+   "id": "vacantes-remotas-ori-setter-rankmi-hr-tech-software-de-gestion-de-pe",
+   "tipo": "setter",
+   "titulo": "SDR B2B: califica leads inbound, hace llamadas en frío y agenda reuniones para ventas",
+   "empresa": "Rankmi (HR Tech / software de gestión de personas)",
+   "ubicacion": "Remoto · Colombia",
+   "pago": "No publicado",
+   "horario": "No especificado (horario flexible según la vacante; metas semanales y mensuales de reuniones)",
+   "idioma": "Español (inglés no mencionado)",
+   "requisitos": "Mínimo 1 año vendiendo servicios B2B, 1 año en bases de datos de prospectos y experiencia con CRM desde 2 años. Se aplica con cuenta gratuita en Vacantes Remotas, que lleva a la oferta original de GetOnBoard.",
+   "alerta": "Solo para residentes en Colombia; sueldo no publicado; empresa no estadounidense",
+   "publicada": "2026-11-17",
+   "link": "https://www.vacantesremotas.com/vacantes/ejecutivo-de-desarrollo-de-ventas-b2b-en-hr-tech",
+   "fuente": "Vacantes Remotas (origen: GetOnBoard)",
+   "agregada": "2026-11-17"
+  },
   {
    "id": "vacantes-remotas-ori-closer-interfell-plataforma-saas-para-asegurado",
    "tipo": "closer",
@@ -73,6 +89,22 @@
    "link": "https://www.vacantesremotas.com/vacantes/asesor-de-admisiones-y-cierre-de-ventas-de-alto-valor",
    "fuente": "Vacantes Remotas (original en GetOnBoard)",
    "agregada": "2026-11-14"
+  },
+  {
+   "id": "remotive-setter-people-boost-para-blum-plataforma-de-pro",
+   "tipo": "setter",
+   "titulo": "Setter de admisiones high ticket: agenda llamadas por WhatsApp, Instagram y LinkedIn",
+   "empresa": "People Boost (para Blum, plataforma de programas de liderazgo en LATAM)",
+   "ubicacion": "Remoto · Colombia (equipo en Bogotá y Ciudad de México)",
+   "pago": "No publicado",
+   "horario": "Lunes a viernes, aprox. 8:30 a. m. a 5:30 p. m. (hora Colombia); entrenamientos comerciales jueves y viernes",
+   "idioma": "Español nativo (ortografía impecable); inglés no mencionado",
+   "requisitos": "1 a 3 años en prospección, SDR/BDR, setter o soporte comercial, y manejo de HubSpot o similar y WhatsApp Business. Se aplica desde el botón de la vacante en Remotive, que lleva a la página de Magneto365.",
+   "alerta": "Solo para residentes en Colombia; sueldo no publicado; se mide por asistencias e inscripciones, no solo por citas agendadas",
+   "publicada": "2026-11-13",
+   "link": "https://remotive.com/remote/jobs/sales/high-ticket-setter-6585453",
+   "fuente": "Remotive",
+   "agregada": "2026-11-17"
   },
   {
    "id": "weremoto-setter-safetywing-seguros-de-salud-internaciona",
@@ -984,22 +1016,6 @@
    "publicada": "2026-10-05",
    "link": "https://selectionbook.na.teamtailor.com/jobs/715018-closer-de-ventas-high-ticket-100-remoto-leads-inbound",
    "fuente": "Teamtailor",
-   "agregada": "2026-10-27"
-  },
-  {
-   "id": "weremoto-closer-pavago-ae-b2b",
-   "tipo": "closer",
-   "titulo": "Closer B2B (Account Executive)",
-   "empresa": "Pavago",
-   "ubicacion": "Remoto · Brasil, Argentina, Perú, Chile y Ecuador",
-   "pago": "No publicado",
-   "horario": "Horario comercial de EE.UU.",
-   "idioma": "Inglés",
-   "requisitos": "3+ años cerrando ventas B2B con historial de cuotas cumplidas. Discovery, demos, negociación y cierre",
-   "alerta": "",
-   "publicada": "2026-10-02",
-   "link": "https://www.weremoto.com/job-posts/id-account-executive---b2b-sales-pavago",
-   "fuente": "WeRemoto",
    "agregada": "2026-10-27"
   }
  ]
