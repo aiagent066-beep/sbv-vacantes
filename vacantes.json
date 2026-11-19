@@ -1,15 +1,47 @@
 {
- "actualizado": "2026-11-18",
- "actualizado_en": "2026-11-18T19:32:35Z",
+ "actualizado": "2026-11-19",
+ "actualizado_en": "2026-11-19T19:37:37Z",
  "ultima_busqueda": {
   "origen": "programada",
-  "inicio": "2026-11-18T19:31:52Z",
-  "fin": "2026-11-18T19:32:35Z",
-  "nuevas": 5,
-  "setter": 4,
+  "inicio": "2026-11-19T19:36:46Z",
+  "fin": "2026-11-19T19:37:37Z",
+  "nuevas": 3,
+  "setter": 2,
   "closer": 1
  },
  "vacantes": [
+  {
+   "id": "publipega-setter-shibga-media-llc-agencia-de-marketing-en",
+   "tipo": "setter",
+   "titulo": "Cold caller / setter remoto: agenda Zoom de onboarding con dueños de negocios de servicios para el hogar",
+   "empresa": "Shibga Media LLC (agencia de marketing en EE.UU.)",
+   "ubicacion": "Remoto · LATAM (Sudamérica, Centroamérica o México)",
+   "pago": "USD $3/hora + $10 por cita asistida, pago semanal (≈ USD $520/mes a tiempo completo)",
+   "horario": "Tiempo completo, lunes a viernes, horario comercial US Eastern",
+   "idioma": "Inglés fluido",
+   "requisitos": "Experiencia en llamadas en frío u outbound de call center, y comodidad con unas 600 marcaciones diarias. Se postula con el formulario de Shibga e incluye una grabación de voz en inglés (Vocaroo); luego hay una prueba pagada de 3 días.",
+   "alerta": "Contratista independiente con base muy baja; la comisión solo se paga si el prospecto entra a la cita. Postular no tiene costo.",
+   "publicada": "2026-11-18",
+   "link": "https://www.publipega.com/empleos/remote-cold-caller-appointment-setter-english-latin-america-llamador-en-frio-remoto/",
+   "fuente": "PubliPega",
+   "agregada": "2026-11-19"
+  },
+  {
+   "id": "weremoto-setter-golden-dragon-roofing-techos-residencial",
+   "tipo": "setter",
+   "titulo": "CSR y setter para techadora: llama a leads nuevos y agenda citas de venta con propietarios",
+   "empresa": "Golden Dragon Roofing (techos residenciales, Nueva Jersey, EE.UU.)",
+   "ubicacion": "Remoto (la publicación no indica país; se publicó en WeRemoto, enfocado en LATAM)",
+   "pago": "No publicado",
+   "horario": "Tiempo completo; horario no especificado",
+   "idioma": "Inglés fluido",
+   "requisitos": "Llamadas salientes de alto volumen a leads de pago, manejo de objeciones y citas donde asisten todos los decisores. Se valora experiencia en techos o servicios para el hogar y GoHighLevel/ServiceTitan; se aplica con un formulario de Google que incluye una grabación de voz.",
+   "alerta": "Rol mixto: también atiende llamadas, confirma instalaciones y hace cobranza suave. No indica país ni pago: confirma ambos antes de postular.",
+   "publicada": "2026-11-18",
+   "link": "https://www.weremoto.com/job-posts/id-roofing-company---customer-service-representative-appointment-setter-golden-dragon-roofing",
+   "fuente": "WeRemoto",
+   "agregada": "2026-11-19"
+  },
   {
    "id": "weremoto-setter-south-cliente-empresa-de-tecnologia-inmo",
    "tipo": "setter",
@@ -297,6 +329,22 @@
    "link": "https://www.weremoto.com/job-posts/id-cold-caller-part-time-south",
    "fuente": "WeRemoto",
    "agregada": "2026-11-12"
+  },
+  {
+   "id": "publipega-closer-offer-now-llc-inversion-inmobiliaria-en",
+   "tipo": "closer",
+   "titulo": "Gerente de adquisiciones inmobiliarias: negocia con propietarios de EE.UU. y cierra contratos de compra",
+   "empresa": "Offer Now LLC (inversión inmobiliaria en EE.UU.)",
+   "ubicacion": "Remoto · México y Sudamérica (abierto a cualquier país)",
+   "pago": "Solo comisiones: 20%, 22.5% o 25% según el nivel mensual, sin sueldo base",
+   "horario": "40 h/semana; eliges tu horario entre martes y sábado, 8:30–18:30 hora Central de EE.UU.",
+   "idioma": "Inglés avanzado (español valorado)",
+   "requisitos": "Hablar con propietarios en inglés, evaluar propiedades, hacer ofertas y llevar la negociación hasta la firma. Dan contactos, guiones y capacitación; se postula en el portal de la empresa con ejercicio escrito y grabación de voz en inglés.",
+   "alerta": "Solo comisión, sin sueldo base",
+   "publicada": "2026-11-11",
+   "link": "https://www.publipega.com/empleos/gerente-de-adquisiciones-inmobiliarias-remoto-ingles-avanzado/",
+   "fuente": "PubliPega",
+   "agregada": "2026-11-19"
   },
   {
    "id": "remotive-setter-gramly-software-de-ia-para-estrategia-de",
