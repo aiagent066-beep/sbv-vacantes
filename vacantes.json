@@ -1,15 +1,47 @@
 {
- "actualizado": "2026-11-19",
- "actualizado_en": "2026-11-19T19:37:37Z",
+ "actualizado": "2026-11-20",
+ "actualizado_en": "2026-11-20T19:15:30Z",
  "ultima_busqueda": {
   "origen": "programada",
-  "inicio": "2026-11-19T19:36:46Z",
-  "fin": "2026-11-19T19:37:37Z",
-  "nuevas": 3,
-  "setter": 2,
+  "inicio": "2026-11-20T19:14:40Z",
+  "fin": "2026-11-20T19:15:30Z",
+  "nuevas": 2,
+  "setter": 1,
   "closer": 1
  },
  "vacantes": [
+  {
+   "id": "remotive-closer-quartavia-mercado-financiero-brasil",
+   "tipo": "closer",
+   "titulo": "Closer high ticket de asesoría financiera y patrimonial (llamadas con leads calificados)",
+   "empresa": "Quartavia (mercado financiero, Brasil)",
+   "ubicacion": "Remoto · Solo Brasil",
+   "pago": "No publicado (fijo + comisión, montos sin detallar)",
+   "horario": "No especificado",
+   "idioma": "Portugués (anuncio en portugués)",
+   "requisitos": "Experiencia comprobada con cifras en ventas high ticket consultivas online, manejo de CRM y conocimiento del mercado financiero (certificación ANCORD/ANBIMA es un plus). Conduces llamadas con leads ya calificados por pre-ventas y cierras; se aplica por el portal de la empresa (inhire) desde Remotive.",
+   "alerta": "Solo para residentes en Brasil y en portugués; no sirve para hispanohablantes de otros países",
+   "publicada": "2026-11-19",
+   "link": "https://remotive.com/remote/jobs/sales/high-ticket-closer-6636317",
+   "fuente": "Remotive",
+   "agregada": "2026-11-20"
+  },
+  {
+   "id": "worklatam-com-setter-rg-international-inc-para-lumina-aesthet",
+   "tipo": "setter",
+   "titulo": "Setter bilingüe inglés/español y coordinador de pacientes para spa médico estético",
+   "empresa": "RG International Inc, para Lumina Aesthetics Med Spa (medicina estética, Nueva Jersey, EE.UU.)",
+   "ubicacion": "Remoto · LATAM",
+   "pago": "$2.50 - $10 / hour (escala por citas pagadas completadas: USD 2.50 a 6.00 por hora)",
+   "horario": "Lunes a sábado, 7-8 h al día (42-48 h por semana), domingo libre, en horario del Este de EE.UU. (Nueva Jersey)",
+   "idioma": "Inglés y español fluidos",
+   "requisitos": "Llamadas salientes y por texto para dar seguimiento a leads y convertirlos en citas. Debes lograr mínimo 20 citas pagadas completadas al mes tras 30 días de entrenamiento. Se postula en worklatam con perfil y CV, y hay evaluación de inglés/español y llamada simulada.",
+   "alerta": "Pago por hora muy bajo; la tarifa sube solo con citas que asisten y pagan; exige compartir pantalla por Zoom durante toda la jornada",
+   "publicada": "2026-11-18",
+   "link": "https://worklatam.com/jobs/810622980-bilingual-english-spanish-appointment-setter-remote-job",
+   "fuente": "worklatam.com",
+   "agregada": "2026-11-20"
+  },
   {
    "id": "publipega-setter-shibga-media-llc-agencia-de-marketing-en",
    "tipo": "setter",
@@ -1128,22 +1160,6 @@
    "publicada": "2026-10-07",
    "link": "https://www.weremoto.com/job-posts/id-outbound-sales-development-representative-sdr-remote-latin-america-growsurf",
    "fuente": "WeRemoto",
-   "agregada": "2026-10-27"
-  },
-  {
-   "id": "teamtailor-closer-edtech-selectionbook",
-   "tipo": "closer",
-   "titulo": "Closer high ticket para EdTech de inglés (leads inbound)",
-   "empresa": "Selection Book (cliente: EdTech de enseñanza de inglés)",
-   "ubicacion": "Remoto · LATAM, EE.UU. o España",
-   "pago": "10% de cada venta (programas de USD 500 a 3,000)",
-   "horario": "No especificado",
-   "idioma": "Español",
-   "requisitos": "Experiencia comprobable cerrando por llamada, idealmente venta consultiva o high ticket. Cero llamadas en frío: todos los leads son inbound",
-   "alerta": "Solo comisión, sin sueldo base",
-   "publicada": "2026-10-05",
-   "link": "https://selectionbook.na.teamtailor.com/jobs/715018-closer-de-ventas-high-ticket-100-remoto-leads-inbound",
-   "fuente": "Teamtailor",
    "agregada": "2026-10-27"
   }
  ]
