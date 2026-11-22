@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-20",
- "actualizado_en": "2026-11-20T19:15:30Z",
+ "actualizado": "2026-11-22",
+ "actualizado_en": "2026-11-22T18:39:01Z",
  "ultima_busqueda": {
   "origen": "programada",
-  "inicio": "2026-11-20T19:14:40Z",
-  "fin": "2026-11-20T19:15:30Z",
-  "nuevas": 2,
-  "setter": 1,
-  "closer": 1
+  "inicio": "2026-11-22T18:38:00Z",
+  "fin": "2026-11-22T18:39:01Z",
+  "nuevas": 0,
+  "setter": 0,
+  "closer": 0
  },
  "vacantes": [
   {
@@ -1143,22 +1143,6 @@
    "alerta": "Medio tiempo con base baja: el ingreso depende de los cierres",
    "publicada": "2026-10-10",
    "link": "https://www.weremoto.com/job-posts/id-appointment-setter-setter-comercial-remoto-medicina-estetica-rsv-aesthetics-medicine-sl",
-   "fuente": "WeRemoto",
-   "agregada": "2026-10-27"
-  },
-  {
-   "id": "weremoto-setter-growsurf-sdr",
-   "tipo": "setter",
-   "titulo": "SDR outbound (agenda demos por email y LinkedIn)",
-   "empresa": "GrowSurf",
-   "ubicacion": "Remoto · LATAM",
-   "pago": "USD 2,000–2,500/mes fijo (contratista)",
-   "horario": "9am–5pm hora Central de EE.UU.",
-   "idioma": "Inglés C1",
-   "requisitos": "2+ años como SDR/BDR con empresas SaaS de EE.UU. y experiencia usando herramientas de IA en prospección",
-   "alerta": "",
-   "publicada": "2026-10-07",
-   "link": "https://www.weremoto.com/job-posts/id-outbound-sales-development-representative-sdr-remote-latin-america-growsurf",
    "fuente": "WeRemoto",
    "agregada": "2026-10-27"
   }
