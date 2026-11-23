@@ -1,15 +1,47 @@
 {
- "actualizado": "2026-11-22",
- "actualizado_en": "2026-11-22T18:39:01Z",
+ "actualizado": "2026-11-23",
+ "actualizado_en": "2026-11-23T22:53:26Z",
  "ultima_busqueda": {
   "origen": "programada",
-  "inicio": "2026-11-22T18:38:00Z",
-  "fin": "2026-11-22T18:39:01Z",
-  "nuevas": 0,
+  "inicio": "2026-11-23T22:52:49Z",
+  "fin": "2026-11-23T22:53:26Z",
+  "nuevas": 2,
   "setter": 0,
-  "closer": 0
+  "closer": 2
  },
  "vacantes": [
+  {
+   "id": "worklatam-closer-markless-clinic-clinica-estetica-con-aca",
+   "tipo": "closer",
+   "titulo": "Vendedor por teléfono y mensajes: convierte consultas en citas e inscripciones a una academia",
+   "empresa": "Markless Clinic (clínica estética con academia de formación)",
+   "ubicacion": "Remoto · LATAM (publicado en workLATAM)",
+   "pago": "USD 5/hora durante una semana de prueba pagada; luego revisión de tarifa según desempeño, más bonos de hasta USD 100 por cliente cerrado",
+   "horario": "Horas acordadas en hora del Este (ET); no se publican días ni horas exactas",
+   "idioma": "Inglés hablado y escrito claro",
+   "requisitos": "Experiencia vendiendo servicios o formación por teléfono y mensajes. Es obligatorio manejar GoHighLevel y Meta Business Suite. Se aplica por workLATAM: cuenta qué has vendido, un resultado medible, tu disponibilidad en ET y un mensaje de seguimiento de ejemplo.",
+   "alerta": "Pago base muy bajo (USD 5/hora en la prueba); mucho depende de los bonos. Incluye prospección en redes sociales además de llamadas",
+   "publicada": "2026-11-23",
+   "link": "https://worklatam.com/jobs/822825528-sales-client-outreach-specialist",
+   "fuente": "workLATAM",
+   "agregada": "2026-11-23"
+  },
+  {
+   "id": "weremoto-closer-sagan-recruitment-cliente-negocio-de-ser",
+   "tipo": "closer",
+   "titulo": "Closer telefónico de fin de semana: cierra cotizaciones de servicios para el hogar (bilingüe)",
+   "empresa": "Sagan Recruitment (cliente: negocio de servicios para el hogar en EE.UU.)",
+   "ubicacion": "Remoto · LATAM y Caribe",
+   "pago": "USD 50–800 por mes",
+   "horario": "Cobertura de fines de semana (horas y zona horaria no especificadas)",
+   "idioma": "Inglés y español profesional (CV en inglés)",
+   "requisitos": "Experiencia comprobable cerrando ventas por teléfono: seguimiento de cotizaciones, manejo de objeciones, agendar citas y cobrar depósitos. Debe saber usar GoHighLevel y Jobber. Se aplica con el formulario de Sagan, con el CV pegado en inglés.",
+   "alerta": "Pago muy bajo y rango muy amplio (USD 50–800/mes); solo fines de semana, contratista independiente",
+   "publicada": "2026-11-22",
+   "link": "https://www.weremoto.com/job-posts/id-bilingual-weekend-sales-representative-home-services-sagan-recruitment",
+   "fuente": "WeRemoto",
+   "agregada": "2026-11-23"
+  },
   {
    "id": "remotive-closer-quartavia-mercado-financiero-brasil",
    "tipo": "closer",
