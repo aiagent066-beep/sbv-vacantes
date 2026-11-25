@@ -1,15 +1,31 @@
 {
- "actualizado": "2026-11-23",
- "actualizado_en": "2026-11-23T22:53:26Z",
+ "actualizado": "2026-11-25",
+ "actualizado_en": "2026-11-25T20:38:23Z",
  "ultima_busqueda": {
   "origen": "programada",
-  "inicio": "2026-11-23T22:52:49Z",
-  "fin": "2026-11-23T22:53:26Z",
-  "nuevas": 2,
-  "setter": 0,
-  "closer": 2
+  "inicio": "2026-11-25T20:37:18Z",
+  "fin": "2026-11-25T20:38:23Z",
+  "nuevas": 3,
+  "setter": 2,
+  "closer": 1
  },
  "vacantes": [
+  {
+   "id": "weremoto-closer-sagan-recruitment-cliente-en-ee-uu-con-c",
+   "tipo": "closer",
+   "titulo": "Account Executive: agenda y realiza demos y gestiona el pipeline de cuentas pequeñas",
+   "empresa": "Sagan Recruitment (cliente en EE.UU. con cuentas de pequeñas empresas)",
+   "ubicacion": "Remoto · LATAM y Caribe",
+   "pago": "USD 1,250–2,000 por mes",
+   "horario": "No especificado",
+   "idioma": "Inglés (fuerte oral y escrito, para demos en vivo)",
+   "requisitos": "2+ años en ventas, gestión de cuentas o soporte de ventas, con manejo independiente del pipeline. HubSpot preferido. Se aplica con el formulario de Sagan, pegando el CV en inglés (mín. 1,000 caracteres).",
+   "alerta": "Contratista independiente; el anuncio es breve y no detalla el producto ni el horario",
+   "publicada": "2026-11-25",
+   "link": "https://www.weremoto.com/job-posts/id-account-executive-sagan-recruitment",
+   "fuente": "WeRemoto",
+   "agregada": "2026-11-25"
+  },
   {
    "id": "worklatam-closer-markless-clinic-clinica-estetica-con-aca",
    "tipo": "closer",
@@ -43,6 +59,22 @@
    "agregada": "2026-11-23"
   },
   {
+   "id": "remotive-setter-rad-hires-cliente-plataforma-deportiva-p",
+   "tipo": "setter",
+   "titulo": "SDR por teléfono a entrenadores de baloncesto en EE.UU.: pasa leads al cierre y cierra ventas pequeñas",
+   "empresa": "Rad Hires (cliente: plataforma deportiva para entrenadores de baloncesto)",
+   "ubicacion": "Remoto · LATAM (o Filipinas)",
+   "pago": "500-1400 por mes (contrato por horas en USD, según timesheets)",
+   "horario": "Medio tiempo: 4–5 horas al día, flexibles, entre 9:00 AM ET y 6:30 PM PT",
+   "idioma": "Inglés fluido hablado",
+   "requisitos": "Experiencia como SDR, BDR, appointment setter o cold caller con volumen alto de llamadas. Se valora GoHighLevel y haber cerrado ventas propias (productos de ~USD 500–1,400). Se aplica por Recruiterflow.",
+   "alerta": "Medio tiempo y contrato por horas; cuota de llamadas alta",
+   "publicada": "2026-11-19",
+   "link": "https://remotive.com/remote/jobs/sales/sales-development-representative-6663863",
+   "fuente": "Remotive",
+   "agregada": "2026-11-25"
+  },
+  {
    "id": "remotive-closer-quartavia-mercado-financiero-brasil",
    "tipo": "closer",
    "titulo": "Closer high ticket de asesoría financiera y patrimonial (llamadas con leads calificados)",
@@ -57,6 +89,22 @@
    "link": "https://remotive.com/remote/jobs/sales/high-ticket-closer-6636317",
    "fuente": "Remotive",
    "agregada": "2026-11-20"
+  },
+  {
+   "id": "remotive-setter-latamcent-cliente-empresa-de-servicios-c",
+   "tipo": "setter",
+   "titulo": "SDR outbound: 150+ llamadas en frío al día para agendar reuniones (construcción y servicios comerciales)",
+   "empresa": "LatamCent (cliente: empresa de servicios comerciales y construcción en EE.UU.)",
+   "ubicacion": "Remoto · LATAM",
+   "pago": "USD 24,000 por año (base USD 2,000 + comisiones)",
+   "horario": "No especificado",
+   "idioma": "Inglés C1/C2",
+   "requisitos": "1–2 años en ventas outbound, prospección o SDR, con mucha comodidad en llamadas en frío de alto volumen. Se aplica por el enlace de Ashby que aparece en la página de Remotive.",
+   "alerta": "Alto volumen de llamadas (150+ al día); fecha aproximada: la página dice 'hace 1 semana'",
+   "publicada": "2026-11-18",
+   "link": "https://remotive.com/remote/jobs/sales/sales-development-representative-6621949",
+   "fuente": "Remotive",
+   "agregada": "2026-11-25"
   },
   {
    "id": "worklatam-com-setter-rg-international-inc-para-lumina-aesthet",
@@ -1159,22 +1207,6 @@
    "alerta": "",
    "publicada": "2026-10-13",
    "link": "https://www.weremoto.com/job-posts/id-charter-sales-executive-pavago",
-   "fuente": "WeRemoto",
-   "agregada": "2026-10-27"
-  },
-  {
-   "id": "weremoto-setter-rsv-estetica",
-   "tipo": "setter",
-   "titulo": "Setter en español para clínica de medicina estética (medio tiempo)",
-   "empresa": "RSV Aesthetics Medicine (Madrid)",
-   "ubicacion": "Remoto · LATAM con horario compatible con España",
-   "pago": "200 €/mes fijos + 10% del beneficio de cada tratamiento cerrado + bono de 200 € al llegar a 20 pacientes",
-   "horario": "2 horas al día",
-   "idioma": "Español fluido",
-   "requisitos": "Experiencia en venta telefónica o como setter. Ideal experiencia en estética o salud",
-   "alerta": "Medio tiempo con base baja: el ingreso depende de los cierres",
-   "publicada": "2026-10-10",
-   "link": "https://www.weremoto.com/job-posts/id-appointment-setter-setter-comercial-remoto-medicina-estetica-rsv-aesthetics-medicine-sl",
    "fuente": "WeRemoto",
    "agregada": "2026-10-27"
   }
