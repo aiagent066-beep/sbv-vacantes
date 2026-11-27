@@ -1,15 +1,31 @@
 {
- "actualizado": "2026-11-26",
- "actualizado_en": "2026-11-26T20:30:03Z",
+ "actualizado": "2026-11-27",
+ "actualizado_en": "2026-11-27T20:15:53Z",
  "ultima_busqueda": {
   "origen": "programada",
-  "inicio": "2026-11-26T20:29:17Z",
-  "fin": "2026-11-26T20:30:03Z",
-  "nuevas": 0,
-  "setter": 0,
+  "inicio": "2026-11-27T20:15:21Z",
+  "fin": "2026-11-27T20:15:53Z",
+  "nuevas": 3,
+  "setter": 3,
   "closer": 0
  },
  "vacantes": [
+  {
+   "id": "weremoto-setter-south-cliente-de-ee-uu-de-servicios-para",
+   "tipo": "setter",
+   "titulo": "Setter inbound por texto/CRM: agenda citas presenciales con propietarios de vivienda",
+   "empresa": "South (cliente de EE.UU. de servicios para el hogar/construcción)",
+   "ubicacion": "Remoto · LATAM",
+   "pago": "No publicado",
+   "horario": "9:00 a. m. a 3:00 p. m. EST (medio tiempo)",
+   "idioma": "Inglés fluido (CV en inglés)",
+   "requisitos": "Responde leads entrantes (sobre todo por mensajes de texto en el CRM, con llamadas ocasionales), los califica y agenda citas con ventas. Pide experiencia previa en setting, ventas o atención al cliente; se aplica en recruiterflow con CV en inglés y video Loom opcional.",
+   "alerta": "Medio tiempo; pago no publicado; el título es 'Sales Representative' pero el rol es de setter",
+   "publicada": "2026-11-27",
+   "link": "https://www.weremoto.com/job-posts/id-part-time-sales-representative-b2c-south",
+   "fuente": "WeRemoto",
+   "agregada": "2026-11-27"
+  },
   {
    "id": "weremoto-closer-sagan-recruitment-cliente-en-ee-uu-con-c",
    "tipo": "closer",
@@ -25,6 +41,22 @@
    "link": "https://www.weremoto.com/job-posts/id-account-executive-sagan-recruitment",
    "fuente": "WeRemoto",
    "agregada": "2026-11-25"
+  },
+  {
+   "id": "remotive-setter-castille-atlantic-desarrollo-de-negocios",
+   "tipo": "setter",
+   "titulo": "Setter B2B por llamadas en frío: agenda citas para el equipo de cierre (contratista)",
+   "empresa": "Castille Atlantic (desarrollo de negocios B2B, EE.UU.)",
+   "ubicacion": "Remoto · Colombia",
+   "pago": "$5.00 USD por hora + comisión",
+   "horario": "Sin horario fijo; el contratista elige sus horas",
+   "idioma": "No especificado (anuncio en inglés)",
+   "requisitos": "Mínimo 2 años en ventas salientes, cold calling o setting B2B. Llamadas en frío a decisores y agenda de citas para cierre; se aplica en su página de empleo con CV y detalle de la experiencia.",
+   "alerta": "Exige contar con negocio registrado (LLC o persona natural/autónomo registrado) y firmar contrato de contratista; pago por hora bajo; solo Colombia",
+   "publicada": "2026-11-24",
+   "link": "https://remotive.com/remote/jobs/sales/appointment-setter-6689841",
+   "fuente": "Remotive",
+   "agregada": "2026-11-27"
   },
   {
    "id": "worklatam-closer-markless-clinic-clinica-estetica-con-aca",
@@ -57,6 +89,22 @@
    "link": "https://www.weremoto.com/job-posts/id-bilingual-weekend-sales-representative-home-services-sagan-recruitment",
    "fuente": "WeRemoto",
    "agregada": "2026-11-23"
+  },
+  {
+   "id": "remotive-setter-rehire-para-una-empresa-de-educacion-y-d",
+   "tipo": "setter",
+   "titulo": "Sales Setter B2C: agenda reuniones para closers de programas de liderazgo (WhatsApp, Instagram, llamadas)",
+   "empresa": "Rehire (para una empresa de educación y desarrollo profesional en LATAM)",
+   "ubicacion": "Remoto · LATAM",
+   "pago": "No publicado (contractor en USD + comisiones)",
+   "horario": "Lunes a viernes, 8:30 a 17:30 (hora de Bogotá)",
+   "idioma": "Español (comunicación oral y escrita excelente)",
+   "requisitos": "Mínimo 1 año en ventas, SDR/BDR o setting, con manejo de HubSpot. Contacta leads fríos y calientes por llamada y mensajería, califica y agenda reuniones para el equipo de closers; se aplica por Ashby.",
+   "alerta": "Fecha aproximada: Remotive muestra 'hace 1 semana'; pago base no publicado; podría ser el mismo cliente que la vacante de People Boost/Blum, verifícalo",
+   "publicada": "2026-11-20",
+   "link": "https://remotive.com/remote/jobs/sales/sales-setter-b2c-6568224",
+   "fuente": "Remotive",
+   "agregada": "2026-11-27"
   },
   {
    "id": "remotive-setter-rad-hires-cliente-plataforma-deportiva-p",
